@@ -1,0 +1,46 @@
+html 
+tag , closed tags
+body
+<h1> --- <h6>  heading
+techniques of SEO [search engine optimization] 
+<img /> [empty tag] closed tags
+-----------
+<img src="./images/image"> src : attribute of tag > source of img 
+<img src="./images/image" alt ="developer"> alt > "text description" if image failed to load
+attribute:
+src : can be image url
+alt : accessibility for disabled ppl : blind for ex[search for more types]
+width = "50"
+hight = " 100"
+if width or hight only exist : other will be auto adjusted
+--------------
+<a></a> : anker link
+href = "https://google.com" > elmkan eli hyroo
+href = "#title_one" > go to this id 
+target =[_self default, _blank > new page] ex : target = "_blank"
+
+------------
+id = "title_one"
+----------------
+<ol>
+<li>list 1 </li>
+ol
+<li>list 1 </li>
+<ul></ul>
+<li>list 1 </li>
+</ol> order list
+
+<ul>
+<li>list 1 </li>
+</ul> unorder list
+
+<dl> </dl>
+
+nested list 
+old website were using >> tables
+
+<table> 
+<tr> table rwo 
+<td> table data </td>
+</tr>
+</table>
